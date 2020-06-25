@@ -1,0 +1,421 @@
+D:\New folder (2)\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+D:\New folder (2)\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+D:\New folder (2)\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Debug\InventorySystem.MainForm.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateCategory.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateProduct.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateStaff.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmChangePasswordcs.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmCustomer.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmDataBase.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmLogin.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmPrintReceipt.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmProduct.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmSales.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmStockIn.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateCategory.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.FrmUpdateCustomer.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateProduct.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateStaff.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.ViewStaffcs.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.Cache
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.MainForm.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateCategory.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateProduct.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateStaff.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmChangePasswordcs.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmCustomer.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmDataBase.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmLogin.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmPrintReceipt.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmProduct.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmSales.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmStockIn.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateCategory.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.FrmUpdateCustomer.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateProduct.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateStaff.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.ViewStaffcs.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.Cache
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csprojResolveAssemblyReference.cache
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\bin\Debug\ur-PK\InventorySystem.resources.dll
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\ur-PK\InventorySystem.resources.dll
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.MainForm.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateCategory.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateProduct.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateStaff.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmChangePasswordcs.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmCustomer.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmLogin.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmSales.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmStockIn.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateCategory.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateProduct.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.ViewStaffcs.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.FrmUpdateCustomer.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateStaff.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\bin\Debug\ug\InventorySystem.resources.dll
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\bin\Debug\ur\InventorySystem.resources.dll
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.ug.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.ur.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\ug\InventorySystem.resources.dll
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Debug\ur\InventorySystem.resources.dll
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\bin\Debug\ur-PK\InventorySystem.resources.dll
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\bin\Debug\ug\InventorySystem.resources.dll
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\bin\Debug\ur\InventorySystem.resources.dll
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\InventorySystem.MainForm.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateCategory.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateProduct.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateStaff.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmChangePasswordcs.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmCustomer.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmDataBase.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmLogin.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmPrintReceipt.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmProduct.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmSales.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmStockIn.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateCategory.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.FrmUpdateCustomer.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateProduct.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateStaff.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.ViewStaffcs.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\InventorySystem.MainForm.ur-PK.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateCategory.ur-PK.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateProduct.ur-PK.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateStaff.ur-PK.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmChangePasswordcs.ur-PK.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmCustomer.ur-PK.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmLogin.ur-PK.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.ug.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.ur-PK.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.ur.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmSales.ur-PK.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmStockIn.ur-PK.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateCategory.ur-PK.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.FrmUpdateCustomer.ur-PK.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateProduct.ur-PK.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateStaff.ur-PK.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.ViewStaffcs.ur-PK.resources
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.Cache
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\ur-PK\InventorySystem.resources.dll
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\ug\InventorySystem.resources.dll
+E:\SyntaX\InventorySystemUpdated\InventorySystem\InventorySystem\obj\Debug\ur\InventorySystem.resources.dll
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\ur-PK\InventorySystem.resources.dll
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\ug\InventorySystem.resources.dll
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\ur\InventorySystem.resources.dll
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csprojResolveAssemblyReference.cache
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.MainForm.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateCategory.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateProduct.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateStaff.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmChangePasswordcs.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmCustomer.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmDataBase.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmLogin.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmPrintReceipt.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmProduct.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmSales.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmStockIn.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateCategory.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.FrmUpdateCustomer.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateProduct.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateStaff.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.ViewStaffcs.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.MainForm.ur-PK.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateCategory.ur-PK.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateProduct.ur-PK.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateStaff.ur-PK.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmChangePasswordcs.ur-PK.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmCustomer.ur-PK.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmLogin.ur-PK.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.ug.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.ur-PK.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.ur.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmSales.ur-PK.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmStockIn.ur-PK.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateCategory.ur-PK.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.FrmUpdateCustomer.ur-PK.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateProduct.ur-PK.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateStaff.ur-PK.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.ViewStaffcs.ur-PK.resources
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.Cache
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\ur-PK\InventorySystem.resources.dll
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\ug\InventorySystem.resources.dll
+D:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\ur\InventorySystem.resources.dll
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\ur-PK\InventorySystem.resources.dll
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\ug\InventorySystem.resources.dll
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\ur\InventorySystem.resources.dll
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csprojResolveAssemblyReference.cache
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.MainForm.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateCategory.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateProduct.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateStaff.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmChangePasswordcs.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmCustomer.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmDataBase.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmLogin.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmPrintReceipt.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmProduct.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmSales.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmStockIn.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateCategory.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.FrmUpdateCustomer.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateProduct.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateStaff.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.ViewStaffcs.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.MainForm.ur-PK.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateCategory.ur-PK.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateProduct.ur-PK.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateStaff.ur-PK.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmChangePasswordcs.ur-PK.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmCustomer.ur-PK.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmLogin.ur-PK.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.ug.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.ur-PK.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.ur.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmSales.ur-PK.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmStockIn.ur-PK.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateCategory.ur-PK.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.FrmUpdateCustomer.ur-PK.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateProduct.ur-PK.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateStaff.ur-PK.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.ViewStaffcs.ur-PK.resources
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.Cache
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\ur-PK\InventorySystem.resources.dll
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\ug\InventorySystem.resources.dll
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\ur\InventorySystem.resources.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\ur-PK\InventorySystem.resources.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\ug\InventorySystem.resources.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\ur\InventorySystem.resources.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csprojAssemblyReference.cache
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.MainForm.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateCategory.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateProduct.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateStaff.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmChangePasswordcs.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmCustomer.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmDataBase.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmLogin.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmPrintReceipt.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmProduct.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmSales.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmStockIn.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateCategory.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.FrmUpdateCustomer.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateProduct.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateStaff.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.ViewStaffcs.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.MainForm.ur-PK.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateCategory.ur-PK.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateProduct.ur-PK.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateStaff.ur-PK.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmChangePasswordcs.ur-PK.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmCustomer.ur-PK.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmLogin.ur-PK.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.ug.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.ur-PK.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.ur.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmSales.ur-PK.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmStockIn.ur-PK.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateCategory.ur-PK.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.FrmUpdateCustomer.ur-PK.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateProduct.ur-PK.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateStaff.ur-PK.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.ViewStaffcs.ur-PK.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.cache
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\ur-PK\InventorySystem.resources.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\ug\InventorySystem.resources.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\ur\InventorySystem.resources.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportSource.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.Shared.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\FlashControlV71.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\ShockwaveFlashObjects.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\bin\Debug\stdole.dll
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmPrintReport.resources
+K:\InventorySystem\InventorySystemFinal\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.CopyComplete
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\bin\Debug\ur-PK\InventorySystem.resources.dll
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\bin\Debug\ug\InventorySystem.resources.dll
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\bin\Debug\ur\InventorySystem.resources.dll
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\bin\Debug\ShockwaveFlashObjects.dll
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\bin\Debug\stdole.dll
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csprojAssemblyReference.cache
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.MainForm.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateCategory.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateProduct.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateStaff.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmChangePasswordcs.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmCustomer.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmDataBase.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmLogin.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmPrintReceipt.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmPrintReport.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmProduct.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmSales.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmStockIn.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateCategory.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.FrmUpdateCustomer.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateProduct.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateStaff.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.ViewStaffcs.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.MainForm.ur-PK.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateCategory.ur-PK.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateProduct.ur-PK.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateStaff.ur-PK.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmChangePasswordcs.ur-PK.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmCustomer.ur-PK.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmLogin.ur-PK.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.ug.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.ur-PK.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.ur.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmSales.ur-PK.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmStockIn.ur-PK.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateCategory.ur-PK.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.FrmUpdateCustomer.ur-PK.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateProduct.ur-PK.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateStaff.ur-PK.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.ViewStaffcs.ur-PK.resources
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.cache
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\ur-PK\InventorySystem.resources.dll
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\ug\InventorySystem.resources.dll
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\ur\InventorySystem.resources.dll
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.CopyComplete
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+D:\Work\InventorySystemFinal_V1.8\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+D:\Work\InventorySystem\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+D:\Work\InventorySystem\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+D:\Work\InventorySystem\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+D:\Work\InventorySystem\InventorySystem\InventorySystem\bin\Debug\ur-PK\InventorySystem.resources.dll
+D:\Work\InventorySystem\InventorySystem\InventorySystem\bin\Debug\ug\InventorySystem.resources.dll
+D:\Work\InventorySystem\InventorySystem\InventorySystem\bin\Debug\ur\InventorySystem.resources.dll
+D:\Work\InventorySystem\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Work\InventorySystem\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Work\InventorySystem\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Work\InventorySystem\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Work\InventorySystem\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Work\InventorySystem\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Work\InventorySystem\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Work\InventorySystem\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Work\InventorySystem\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Work\InventorySystem\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Work\InventorySystem\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Work\InventorySystem\InventorySystem\InventorySystem\bin\Debug\ShockwaveFlashObjects.dll
+D:\Work\InventorySystem\InventorySystem\InventorySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Work\InventorySystem\InventorySystem\InventorySystem\bin\Debug\stdole.dll
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csprojAssemblyReference.cache
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.MainForm.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateCategory.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateProduct.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateStaff.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmChangePasswordcs.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmCustomer.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmDataBase.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmLogin.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmPrintReceipt.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmPrintReport.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmProduct.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmSales.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmStockIn.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateCategory.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.FrmUpdateCustomer.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateProduct.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateStaff.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.ViewStaffcs.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.MainForm.ur-PK.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateCategory.ur-PK.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateProduct.ur-PK.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmAddUpdateStaff.ur-PK.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmChangePasswordcs.ur-PK.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmCustomer.ur-PK.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmLogin.ur-PK.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.ug.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.ur-PK.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmMain.ur.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmSales.ur-PK.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\Inventory_System.frmStockIn.ur-PK.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateCategory.ur-PK.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.FrmUpdateCustomer.ur-PK.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateProduct.ur-PK.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.frmUpdateStaff.ur-PK.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Forms.ViewStaffcs.ur-PK.resources
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.cache
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\ur-PK\InventorySystem.resources.dll
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\ug\InventorySystem.resources.dll
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\ur\InventorySystem.resources.dll
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.CopyComplete
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+D:\Work\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb

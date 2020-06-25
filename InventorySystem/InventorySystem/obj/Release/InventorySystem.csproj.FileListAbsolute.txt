@@ -1,0 +1,76 @@
+D:\New folder (2)\InventorySystem\InventorySystem\bin\Release\InventorySystem.exe.config
+D:\New folder (2)\InventorySystem\InventorySystem\bin\Release\InventorySystem.exe
+D:\New folder (2)\InventorySystem\InventorySystem\bin\Release\InventorySystem.pdb
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Release\InventorySystem.MainForm.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Release\Inventory_System.frmAddUpdateCategory.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Release\Inventory_System.frmAddUpdateProduct.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Release\Inventory_System.frmAddUpdateStaff.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Release\InventorySystem.Forms.frmChangePasswordcs.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Release\InventorySystem.Forms.frmCustomer.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Release\Inventory_System.frmDataBase.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Release\InventorySystem.frmLogin.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Release\Inventory_System.frmMain.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Release\Inventory_System.frmPrintReceipt.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Release\Inventory_System.frmProduct.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Release\InventorySystem.Forms.frmSales.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Release\Inventory_System.frmStockIn.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Release\InventorySystem.Forms.frmUpdateCategory.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Release\InventorySystem.Forms.FrmUpdateCustomer.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Release\InventorySystem.Forms.frmUpdateProduct.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Release\InventorySystem.Forms.frmUpdateStaff.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Release\InventorySystem.Forms.ViewStaffcs.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Release\InventorySystem.Properties.Resources.resources
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Release\InventorySystem.csproj.GenerateResource.Cache
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Release\InventorySystem.exe
+D:\New folder (2)\InventorySystem\InventorySystem\obj\Release\InventorySystem.pdb
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\bin\Release\InventorySystem.exe.config
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\InventorySystem.exe
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\InventorySystem.pdb
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\bin\Release\InventorySystem.exe
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\bin\Release\InventorySystem.pdb
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\bin\Release\ur-PK\InventorySystem.resources.dll
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\bin\Release\ug\InventorySystem.resources.dll
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\bin\Release\ur\InventorySystem.resources.dll
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\InventorySystem.MainForm.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\Inventory_System.frmAddUpdateCategory.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\Inventory_System.frmAddUpdateProduct.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\Inventory_System.frmAddUpdateStaff.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\InventorySystem.Forms.frmChangePasswordcs.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\InventorySystem.Forms.frmCustomer.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\Inventory_System.frmDataBase.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\InventorySystem.frmLogin.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\Inventory_System.frmMain.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\Inventory_System.frmPrintReceipt.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\Inventory_System.frmProduct.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\InventorySystem.Forms.frmSales.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\Inventory_System.frmStockIn.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\InventorySystem.Forms.frmUpdateCategory.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\InventorySystem.Forms.FrmUpdateCustomer.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\InventorySystem.Forms.frmUpdateProduct.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\InventorySystem.Forms.frmUpdateStaff.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\InventorySystem.Forms.ViewStaffcs.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\InventorySystem.Properties.Resources.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\InventorySystem.MainForm.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\Inventory_System.frmAddUpdateCategory.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\Inventory_System.frmAddUpdateProduct.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\Inventory_System.frmAddUpdateStaff.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\InventorySystem.Forms.frmChangePasswordcs.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\InventorySystem.Forms.frmCustomer.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\InventorySystem.frmLogin.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\Inventory_System.frmMain.ug.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\Inventory_System.frmMain.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\Inventory_System.frmMain.ur.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\InventorySystem.Forms.frmSales.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\Inventory_System.frmStockIn.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\InventorySystem.Forms.frmUpdateCategory.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\InventorySystem.Forms.FrmUpdateCustomer.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\InventorySystem.Forms.frmUpdateProduct.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\InventorySystem.Forms.frmUpdateStaff.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\InventorySystem.Forms.ViewStaffcs.ur-PK.resources
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\InventorySystem.csproj.GenerateResource.Cache
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\ur-PK\InventorySystem.resources.dll
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\ug\InventorySystem.resources.dll
+C:\Users\Rana yasir\Documents\syntaX\InventorySystem\InventorySystem\obj\Release\ur\InventorySystem.resources.dll
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\bin\Release\InventorySystem.exe.config
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Release\InventorySystem.exe
+D:\IV_V1.5\InventorySystemFinal\InventorySystem\InventorySystem\obj\Release\InventorySystem.pdb

@@ -1,0 +1,76 @@
+!!!!!!!!!!!!!!!!!  READ CAREFULLY
+
+1- Click on the Wizard And Install The Applicaion
+
+2- Go to the installed folder\Database, and double click on the run.bat file
+
+3- Run the Application 'InventorySystem'
+
+4- Cheers
+
+
+||||||||||||||||||||||   HOW TO USE THE SOFTWARE  ||||||||||||||
+
+1- On main dashboard by double-clicking on any row haeder you can edit the prodcut details
+	Except the barcode, as it remain same.
+
+1.1- On dashboard Rows highlighted with red color means they are out of stock
+1.2  Similarly Rows highlighted with light green color means they are expired.
+
+2- After Editing or adding any product in the system you have to press the Refresh Button
+	on the dashboard.	
+
+3- For first time to add any product in the system, please add category first.
+
+4- In main menu File->Staff->view and update Staff . You can view all the staff memebers
+	and can edit their details by clicking the cell you want to edit. Or you can delete
+	Staff by selecting the row header and by clicking delete button
+
+5- In POS by default sale quantity is fixed to "1". So when you scan the product with
+	barcode, it will automatically add into customer cart with Sale Quantity as "1"
+
+6- If you want to edit the quantity at any time, you can double click on the "Qty"
+	Cell in "Add to customer cart"
+
+7-  Customer ID and Name are must, before printing the slip
+
+8- You can add discounts if you want to by entering discount percent (By default its set to '0')
+
+
+9- Admin can change the password by going to Help->change password in menu bar
+
+
+
+/////////// Manual for including exlcuding balance of of customer
+
+10- If you already added a customer by clicking on Customer on  main screen. Then in POS first add customer contact number	on pressing tab(leaving the Customer Conatct box)
+	Customer Name, his/her previous balance will automatically included.
+
+11- After that you may want to add items he want to purchase this time.
+
+12- When done with purhcasing all the items, now its on you, either you can include the customer previous balance by clicking the button "include balance" or you dont want to.
+
+13- IF you included the balance by clicking the button in the last, and somehow you want to undo this action (not to include customer previous balanace) you can again click on Include button 
+	and it will be excluded.
+
+14- (On pressing the include button)How it works. If a user has +72$ in his/her previous balance, and on new transaction he/she bought items less then $72 (eg he bought 10$ item) soo his/her new balance will
+	be $62 and will be stored and printed on slip. Same goes other way around on negitive amounts, if you include his/her balance her/his balance will be added to GrandTotal.
+
+IMPORTANT POINT: ALWAYS PRESS THE "INCLUDE BALANCE" IN LAST, WHEN YOU HAVE ADDED ALL THE ITEMS YOU WANT TO SELL. 
+
+15- After clicking the print Invoice wait for 2-3 seconds and your printer will start printing the slip.
+
+16- TO edit the quantity once sold you have to double click the "Qty" Cell in Add to customer Card Section.
+
+
+
+Extra : Very basic reports "mini sale report" can be seen by pressing the execute button. You have to set two dates first, total gross money and item most sold for that
+		particular time will be calculted and shown. Very detailed reporting can be done in futher.
+
+
+
+Feel free to contact us :)
+
+Software Made by 
+Syntax|| Reality to your imagination
+email : syntaxddevx@gmail.com
